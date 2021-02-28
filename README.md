@@ -1,2 +1,2 @@
 # databricks
-Data science skills learned from Databricks.
+Data engineering skills learned from Databricks.
