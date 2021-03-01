@@ -1,2 +1,2 @@
 # databricks
-Data engineering skills learned from Databricks.
+Databricks is a unified analytics platform. 
