@@ -1,2 +1,2 @@
 # databricks
-Databricks is a unified analytics platform. 
+Databricks is a unified data analytics platform.
